@@ -1,2 +1,3 @@
-# Algorithm_leetcode
-some typical algorithm to solve some problems on the leetcode
+# operation system
+ - process management
+ - memory management
